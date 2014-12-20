@@ -1,0 +1,3 @@
+.sass-cache*
+# ignore local node modules (they are OS-specific )
+
