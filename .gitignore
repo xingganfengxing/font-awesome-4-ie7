@@ -1,3 +1,4 @@
 .sass-cache*
+.gitignore
 # ignore local node modules (they are OS-specific )
 
