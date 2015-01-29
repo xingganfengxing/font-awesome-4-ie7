@@ -158,6 +158,7 @@
 .#{$fa-css-prefix}-bookmark-o { @include ie7-icon($fa-var-bookmark-o); }
 .#{$fa-css-prefix}-phone-square { @include ie7-icon($fa-var-phone-square); }
 .#{$fa-css-prefix}-twitter { @include ie7-icon($fa-var-twitter); }
+.#{$fa-css-prefix}-facebook-f,
 .#{$fa-css-prefix}-facebook { @include ie7-icon($fa-var-facebook); }
 .#{$fa-css-prefix}-github { @include ie7-icon($fa-var-github); }
 .#{$fa-css-prefix}-unlock { @include ie7-icon($fa-var-unlock); }
@@ -397,7 +398,8 @@
 .#{$fa-css-prefix}-trello { @include ie7-icon($fa-var-trello); }
 .#{$fa-css-prefix}-female { @include ie7-icon($fa-var-female); }
 .#{$fa-css-prefix}-male { @include ie7-icon($fa-var-male); }
-.#{$fa-css-prefix}-gittip { @include ie7-icon($fa-var-gittip); }
+.#{$fa-css-prefix}-gittip,
+.#{$fa-css-prefix}-gratipay { @include ie7-icon($fa-var-gratipay); }
 .#{$fa-css-prefix}-sun-o { @include ie7-icon($fa-var-sun-o); }
 .#{$fa-css-prefix}-moon-o { @include ie7-icon($fa-var-moon-o); }
 .#{$fa-css-prefix}-archive { @include ie7-icon($fa-var-archive); }
@@ -500,6 +502,7 @@
 .#{$fa-css-prefix}-send-o,
 .#{$fa-css-prefix}-paper-plane-o { @include ie7-icon($fa-var-paper-plane-o); }
 .#{$fa-css-prefix}-history { @include ie7-icon($fa-var-history); }
+.#{$fa-css-prefix}-genderless,
 .#{$fa-css-prefix}-circle-thin { @include ie7-icon($fa-var-circle-thin); }
 .#{$fa-css-prefix}-header { @include ie7-icon($fa-var-header); }
 .#{$fa-css-prefix}-paragraph { @include ie7-icon($fa-var-paragraph); }
@@ -550,3 +553,44 @@
 .#{$fa-css-prefix}-sheqel,
 .#{$fa-css-prefix}-ils { @include ie7-icon($fa-var-ils); }
 .#{$fa-css-prefix}-meanpath { @include ie7-icon($fa-var-meanpath); }
+.#{$fa-css-prefix}-buysellads { @include ie7-icon($fa-var-buysellads); }
+.#{$fa-css-prefix}-connectdevelop { @include ie7-icon($fa-var-connectdevelop); }
+.#{$fa-css-prefix}-dashcube { @include ie7-icon($fa-var-dashcube); }
+.#{$fa-css-prefix}-forumbee { @include ie7-icon($fa-var-forumbee); }
+.#{$fa-css-prefix}-leanpub { @include ie7-icon($fa-var-leanpub); }
+.#{$fa-css-prefix}-sellsy { @include ie7-icon($fa-var-sellsy); }
+.#{$fa-css-prefix}-shirtsinbulk { @include ie7-icon($fa-var-shirtsinbulk); }
+.#{$fa-css-prefix}-simplybuilt { @include ie7-icon($fa-var-simplybuilt); }
+.#{$fa-css-prefix}-skyatlas { @include ie7-icon($fa-var-skyatlas); }
+.#{$fa-css-prefix}-cart-plus { @include ie7-icon($fa-var-cart-plus); }
+.#{$fa-css-prefix}-cart-arrow-down { @include ie7-icon($fa-var-cart-arrow-down); }
+.#{$fa-css-prefix}-diamond { @include ie7-icon($fa-var-diamond); }
+.#{$fa-css-prefix}-ship { @include ie7-icon($fa-var-ship); }
+.#{$fa-css-prefix}-user-secret { @include ie7-icon($fa-var-user-secret); }
+.#{$fa-css-prefix}-motorcycle { @include ie7-icon($fa-var-motorcycle); }
+.#{$fa-css-prefix}-street-view { @include ie7-icon($fa-var-street-view); }
+.#{$fa-css-prefix}-heartbeat { @include ie7-icon($fa-var-heartbeat); }
+.#{$fa-css-prefix}-venus { @include ie7-icon($fa-var-venus); }
+.#{$fa-css-prefix}-mars { @include ie7-icon($fa-var-mars); }
+.#{$fa-css-prefix}-mercury { @include ie7-icon($fa-var-mercury); }
+.#{$fa-css-prefix}-transgender { @include ie7-icon($fa-var-transgender); }
+.#{$fa-css-prefix}-transgender-alt { @include ie7-icon($fa-var-transgender-alt); }
+.#{$fa-css-prefix}-venus-double { @include ie7-icon($fa-var-venus-double); }
+.#{$fa-css-prefix}-mars-double { @include ie7-icon($fa-var-mars-double); }
+.#{$fa-css-prefix}-venus-mars { @include ie7-icon($fa-var-venus-mars); }
+.#{$fa-css-prefix}-mars-stroke { @include ie7-icon($fa-var-mars-stroke); }
+.#{$fa-css-prefix}-mars-stroke-v { @include ie7-icon($fa-var-mars-stroke-v); }
+.#{$fa-css-prefix}-mars-stroke-h { @include ie7-icon($fa-var-mars-stroke-h); }
+.#{$fa-css-prefix}-neuter { @include ie7-icon($fa-var-neuter); }
+.#{$fa-css-prefix}-facebook-official { @include ie7-icon($fa-var-facebook-official); }
+.#{$fa-css-prefix}-pinterest-p { @include ie7-icon($fa-var-pinterest-p); }
+.#{$fa-css-prefix}-whatsapp { @include ie7-icon($fa-var-whatsapp); }
+.#{$fa-css-prefix}-server { @include ie7-icon($fa-var-server); }
+.#{$fa-css-prefix}-user-plus { @include ie7-icon($fa-var-user-plus); }
+.#{$fa-css-prefix}-user-times { @include ie7-icon($fa-var-user-times); }
+.#{$fa-css-prefix}-hotel,
+.#{$fa-css-prefix}-bed { @include ie7-icon($fa-var-bed); }
+.#{$fa-css-prefix}-viacoin { @include ie7-icon($fa-var-viacoin); }
+.#{$fa-css-prefix}-train { @include ie7-icon($fa-var-train); }
+.#{$fa-css-prefix}-subway { @include ie7-icon($fa-var-subway); }
+.#{$fa-css-prefix}-medium { @include ie7-icon($fa-var-medium); }
